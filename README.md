@@ -34,3 +34,5 @@ Roku Voice allows you to speak to your Roku device and perform several types of 
 * The voice detection works by identifying key words that correspond to specific actions, then those actions parse out the remaining commands and "does stuff" to your Roku. It may be possible to offload the voice detection to another JSON file and allow the user to add different key words.
 
 This Shortcut is a work in progress. More commands will be added and logic improvements will be made and distributed through RoutineHub. If anyone is interested in contributing to this shortcut, please let me know!
+
+Credit to [u/Bradart](https://www.reddit.com/user/Bradart) and [u/raygan](https://www.reddit.com/user/raygan) for inspiring this project.

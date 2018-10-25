@@ -1,7 +1,7 @@
 ## Roku Voice - A multi-shortcut Roku controller.
 Control your Roku device with your voice using Apple Shortcuts on the iPhone.
 
-Roku Voice allows you to speak to your Roku device and perform several types of actions. You can say things like, "**Launch Plex**," "**Netflix and Chill**," or "**Pause Roku**." You can perform a search in Roku with whatever keywords you like by saying something like "**Search for**" followed by the keywords. This Shortcut can also add and remove Roku devices to control, as well as Channels to launch. It uses a JSON database stored in an iCloud folder to maintain your devices and channels.
+Roku Voice allows you to speak to your Roku device and perform several types of actions. You can say things like, "**Launch Plex**," "**Netflix and Chill**," or "**Pause Roku**." You can perform a search in Roku with whatever keywords you like by saying something like "**Search for**" followed by the keywords. This Shortcut can also add and remove Roku devices to control, as well as Channels to launch. It uses a JSON database stored in an iCloud folder to maintain your devices and channels. The actions themselves use Roku's Web API to send commands to your device (using its IP).
 
 ## Requirements: 
 - Apple iPhone
